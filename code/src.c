@@ -1,6 +1,6 @@
-#include "avr/io.h"
+
 #include "lcd.h"
-#include "util/delay.h"
+
 
 int main (void)
 {
